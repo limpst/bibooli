@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bibooli/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/bibooli/static/js/main.4fe7e8aa.chunk.js",
+    "main.js.map": "/bibooli/static/js/main.4fe7e8aa.chunk.js.map",
+    "runtime-main.js": "/bibooli/static/js/runtime-main.8988e710.js",
+    "runtime-main.js.map": "/bibooli/static/js/runtime-main.8988e710.js.map",
+    "static/js/2.9bd1529c.chunk.js": "/bibooli/static/js/2.9bd1529c.chunk.js",
+    "static/js/2.9bd1529c.chunk.js.map": "/bibooli/static/js/2.9bd1529c.chunk.js.map",
+    "static/js/3.865cf53c.chunk.js": "/bibooli/static/js/3.865cf53c.chunk.js",
+    "static/js/3.865cf53c.chunk.js.map": "/bibooli/static/js/3.865cf53c.chunk.js.map",
+    "index.html": "/bibooli/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/bibooli/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.9bd1529c.chunk.js.LICENSE.txt": "/bibooli/static/js/2.9bd1529c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/bibooli/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8988e710.js",
+    "static/js/2.9bd1529c.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.4fe7e8aa.chunk.js"
+  ]
+}
